@@ -6,5 +6,5 @@ const port = 3000
 app.use(router)
 
 app.listen(port, () => {
-	console.log(`exchange service listening on port ${port}`)
+	console.log(`exchange-service listening on port ${port}`)
 })
