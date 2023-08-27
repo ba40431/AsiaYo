@@ -1,0 +1,23 @@
+{
+  "name": "asiayo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ba40431/AsiaYo.git"
+  },
+  "author": "Abby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ba40431/AsiaYo/issues"
+  },
+  "homepage": "https://github.com/ba40431/AsiaYo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
